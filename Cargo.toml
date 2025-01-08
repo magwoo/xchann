@@ -1,5 +1,5 @@
 [package]
-name = "spmc-channel"
+name = "xchann"
 version = "0.1.0"
 edition = "2021"
 
